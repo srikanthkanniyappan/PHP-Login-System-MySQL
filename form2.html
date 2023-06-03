@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In</title>
+    <link rel="stylesheet" href="form2.css" type="text/css" />
+  </head>
+  <body>
+    <div class="form">
+      <img src="img/ajay.jpeg" alt="Ajay" />
+      <h1 id="head">Stack Output</h1>
+      <h2 id="head2">Sign In</h2>
+      <form action="form2Process.php" method="post">
+        <div>
+          <label for="email" id="label">Email</label>
+          <input type="text" id="email" name="email" class="in" required />
+          <label for="pwd" id="label">Password</label>
+          <input
+            type="password"
+            name="pwd"
+            id="pwd"
+            class="in"
+            required
+            minlength="6"
+          />
+          <div>
+            <input type="checkbox" id="check" name="check" checked />
+            <label for="check">Remember Me</label>
+          </div>
+          <div class="btn">
+            <button type="submit" name="signin">Sign In</button>
+          </div>
+          <div>
+            <p>New to Stack Output? <a href="form.html">Create Account</a></p>
+          </div>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

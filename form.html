@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create Account</title>
+    <link rel="stylesheet" href="form.css" type="text/css" />
+  </head>
+  <body>
+    <div class="form">
+      <img src="img/ajay.jpeg" alt="Ajay" />
+      <h1 id="head">Stack Output</h1>
+      <h2 id="head2">Create Account</h2>
+      <form action="formProcess.php" method="post">
+        <div>
+          <label for="name" id="label">User Name</label>
+          <input type="text" id="name" name="name" class="in" required />
+          <label for="email" id="label">Email</label>
+          <input type="text" id="email" name="email" class="in" required />
+          <label for="pwd" id="label">Password</label>
+          <input
+            type="password"
+            name="pwd"
+            id="pwd"
+            class="in"
+            required
+            minlength="6"
+          />
+          <div>
+            <input type="checkbox" id="check" name="check" checked />
+            <label for="check">Remember Me</label>
+          </div>
+          <div class="btn">
+            <button type="submit" name="Reg">Register</button>
+          </div>
+          <div>
+            <p>Already have an account? <a href="form2.html">Sign In</a></p>
+          </div>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
