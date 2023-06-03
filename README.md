@@ -7,9 +7,9 @@
 ## 📚 Table of Contents
 
 - 🌟 [Features](#-features)
-- 🔧 [Installation and Setup](#-installation-and-setup)
+- 💻 [Installation and Setup](#-installation-and-setup)
 - 💡 [Usage](#-usage)
-- ⚒️ [Built With](#%EF%B8%8F-built-with)
+- 🔧 [Built With](#-built-with)
 - 📷 [Screenshots](#-screenshots)
 - 🔐 [Security Considerations](#-security-considerations)
 - 🙌 [Contributing](#-contributing)
@@ -22,7 +22,7 @@
 - 💾 Database Integration: The system uses a MySQL database to store user information.
 - ✔️ Basic Validation: The code checks for duplicate emails during registration and validates user login credentials.
 
-## 🔧 Installation and Setup
+## 💻 Installation and Setup
 
 1. 📥 Clone the repository or download the project files to your local machine.
 2. 💻 Ensure you have a local PHP development environment (e.g., XAMPP, WAMP, MAMP) installed.
@@ -38,7 +38,7 @@
 3. 🎨 The user interface is styled using CSS, providing an appealing and responsive design.
 
 
-## ⚒️ Built With
+## 🔧 Built With
 
 - 💻 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 🎨 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -48,8 +48,8 @@
 
 ## 📷 Screenshots 
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/5badcfb4a855b2b7c8088a4498e790f53905ded4/img/Screenshot%201.png" alt="Data Visualization 1" width="700">
-  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/5badcfb4a855b2b7c8088a4498e790f53905ded4/img/Screenshot2.png" alt="Data Visualization 2" width="700">
+  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/5badcfb4a855b2b7c8088a4498e790f53905ded4/img/Screenshot%201.png" alt="Project Screenshot 1" width="700">
+  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/5badcfb4a855b2b7c8088a4498e790f53905ded4/img/Screenshot2.png" alt="Project Screenshot 2" width="700">
 </div>
 
 ## 🔐 Security Considerations
