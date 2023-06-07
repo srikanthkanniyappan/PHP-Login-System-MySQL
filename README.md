@@ -48,8 +48,8 @@
 
 ## 📷 Screenshots 
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/3275ebf7aad95bf7a3f4ddc88ddba1225cf372f8/img/Screenshot1.png" alt="Project Screenshot 1" width="700">
-  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/blob/5badcfb4a855b2b7c8088a4498e790f53905ded4/img/Screenshot2.png" alt="Project Screenshot 2" width="700">
+  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/assets/135094991/3e732977-525b-4ec9-9874-5156260d3127" alt="Project Screenshot 1" width="700">
+  <img src="https://github.com/srikanthkanniyappan/PHP-Login-System-MySQL/assets/135094991/82c826d3-9aec-41e0-9038-78d07a5819ea" alt="Project Screenshot 2" width="700">
 </div>
 
 ## 🔐 Security Considerations
